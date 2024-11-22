@@ -1,11 +1,8 @@
-# Responsive Navigation Bar</br>
-<br>
-<br>
+# Responsive Navigation Bar</br><br><br>
 
 
 ## 📋 Project Description:
-This project features a responsive navigation bar built using HTML and CSS. The navbar dynamically adapts to different screen sizes, ensuring an optimal user experience on various devices (mobile, tablet, desktop).
-<br>
+This project features a responsive navigation bar built using HTML and CSS. The navbar dynamically adapts to different screen sizes, ensuring an optimal user experience on various devices (mobile, tablet, desktop).<br>
 
 ## 🌐 Key Features:
 • Responsive Design: Utilizes CSS media queries to adjust layout and styling based on screen width.</br>
@@ -26,9 +23,9 @@ This project features a responsive navigation bar built using HTML and CSS. The 
 ## 🚀 **How to Use:**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/oanekrif/navbar.git
-2.Open [index.html](https://oanekrif.github.io/navbar/) in your browser.<br>
-3.Start the challenge and answer the questions!<br>
+   git clone https://github.com/Oanekrif/navbar.git
+2 .Open [index.html](https://oanekrif.github.io/navbar/) in your browser.
+3 .Start the challenge and answer the questions!
 
 ## 🖼️ Screenshots:
 Include screenshots showcasing how the navbar looks on different devices.</br>
