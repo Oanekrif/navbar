@@ -22,10 +22,10 @@ This project features a responsive navigation bar built using HTML and CSS. The 
 
 ## 🚀 **How to Use:**
 1. Clone the repository:
-   ```bash
+    ```bash
    git clone https://github.com/Oanekrif/navbar.git
-2 .Open [index.html](https://oanekrif.github.io/navbar/) in your browser.
-3 .Start the challenge and answer the questions!
+2. Open [index.html](https://oanekrif.github.io/navbar/) in your browser.
+3. Start the challenge and answer the questions!
 
 ## 🖼️ Screenshots:
 Include screenshots showcasing how the navbar looks on different devices.</br>
