@@ -27,8 +27,9 @@ This project features a responsive navigation bar built using HTML and CSS. The 
 2. Open index.html in your browser.
 3. Start the challenge and answer the questions!
 
-## 🖼️ Screenshots:
-Include screenshots showcasing how the navbar looks on different devices.</br>
+## 🖼️ Result:
+
+![web Overview](https://github.com/Oanekrif/navbar/blob/master/src/navbar-gif.gif)
 
 ## 🎯 Future Improvements:
 • Add JavaScript for enhanced interactivity (like animated hamburger menus).</br>
